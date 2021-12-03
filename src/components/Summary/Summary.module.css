@@ -1,0 +1,12 @@
+.summary-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+@media only screen and (max-width: 770px) {
+    .summary-grid {
+        grid-template-columns: 1fr;
+    }
+}

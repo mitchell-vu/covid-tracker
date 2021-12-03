@@ -1,0 +1,21 @@
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    margin: 30px 0;
+}
+
+.form select {
+    padding: 10px 15px;
+    border: 1px solid var(--color--border);
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 650px) {
+    .form {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
