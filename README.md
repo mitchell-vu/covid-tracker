@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Live Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://covid-19-tracker-2801.firebaseapp.com/
+
 
 ## Available Scripts
 
